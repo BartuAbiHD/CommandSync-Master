@@ -1,2 +1,2 @@
 # CommandSync-Master
-CommandSync plugin for Minecraft server.
+The only plugin that allows commands and more to be synced across multiple Minecraft server instances through BungeeCord.
