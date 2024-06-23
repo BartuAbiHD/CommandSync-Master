@@ -1,0 +1,15 @@
+name: CommandSync
+main: youtube.bartuabihd.CommandSync.CSC
+version: 1.3
+author: BartuAbiHD
+api-version: 1.7
+api: 1.7.2
+
+commands:
+  sync:
+    description: Synchronize commands across servers.
+    
+permissions:
+  sync.use:
+    description: Access to /sync.
+    default: op
